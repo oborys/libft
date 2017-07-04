@@ -74,8 +74,9 @@ That's it. Now run it using `./a.out`
 
 List of my projects that use Libft:
 
-* [get_next_line](https://github.com/oborys)
-* [fillit](https://github.com/r4meau/oborys)
+* [get_next_line](https://github.com/oborys/get_next_line)
+* [fillit](https://github.com/oborys/fillit)
+* [ft_printf](https://github.com/oborys/ft_printf)
 * [filler](https://github.com/oborys)
 * [Lem_in](https://github.com/oborys)
 
