@@ -62,10 +62,6 @@ You have to tell the file where your library resides and which library it is usi
 
 That's it. Now run it using `./a.out`
 
-		
-	As an example, after creating ft_memset as your first function, you go into the Makefile, remove the `#` in front of `FILES`, remove the `\` at the end of `ft_memset` and add a `#` in front of `ft_bzero`. 
-	
-	If it still looks complicated, **DON'T PANIC**, [just ask me][8] :)
 4. Run Make so you can build the library:
 		
 		make	
